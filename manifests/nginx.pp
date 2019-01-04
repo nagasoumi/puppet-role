@@ -1,5 +1,5 @@
 class role::nginx
 {
- include profile::nginx
+ include ::profile::nginx
 
 }
